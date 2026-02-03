@@ -76,7 +76,7 @@ This ensures the output is predictable and easy to store, parse, or extend.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-research-agent.git
+git clone https://github.com/ojeyelizaphan/AI-Research-Assistant-Agent.git
 cd ai-research-agent
 ```
 
